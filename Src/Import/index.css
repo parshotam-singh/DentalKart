@@ -1,0 +1,257 @@
+/*  Attributes and css
+*{
+  margin: 0; padding: 10; box-sizing: border-box;
+}
+
+.h{
+  color: rgb(63, 108, 212);
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  margin: 50px;
+  text-shadow: 0px 2px 4px #7e5614;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.sto{
+  display: flex;
+  justify-content: center;
+  width:300 ;
+  height: 300;
+}
+*/
+
+
+/*  project 1 ***********
+
+*{
+  background-color: rgb(126, 216, 216);
+  background: rgb(142, 128, 101);
+  position:fixed
+}
+
+*/
+
+/* Project 1 with components css ****
+
+body{
+  background-color: aquamarine;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0%;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0px;
+  box-shadow: 0px 2px 4px 2px black;
+}
+
+h1{
+  background: rgb(198, 192, 126);
+  border-radius: 10px;
+  width: 600px;
+  height: 45px;
+  text-align: center;
+}
+
+*/
+
+
+/*Project netflix css */
+
+/*
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: #d2dbdd;
+}
+.heading{
+  padding: 30px 0;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 15px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color: #514a4a;
+  background-color: rgb(237, 230, 230);
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+.cards{
+  width: 100%;
+  height: auto;
+}
+.card{
+  margin: 6%;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  background-color: #fff;
+  width: 21.25%;
+  border-radius: 12px;
+  box-shadow: 0px 13px 10px -7px rgba(0,0,0,0.1);
+  float: left;
+}
+
+.crads:hover{
+  box-sizing: 0px 30px 18px -8px rgba(0,0,0,0.1);
+  transform: scale(1.05,1.05);
+}
+.card_img{
+  width: 100%;
+  height: 235px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+
+}
+
+.card_info{
+  background-color: #fff;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  padding: 16px 24px 24px 24px;
+  background-color: #fff;
+}
+
+.card_category{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  background-color: #fff;
+}
+
+.card_title{
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #fff;
+  text-transform: capitalize;
+}
+
+.button{
+  padding: 5px 8px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color:rgb(141, 104, 104);
+  background-color: #fff;
+  outline: none;
+  border-radius: 10px;
+  cursor: pointer;
+} 
+*/
+
+
+/* hooks css */
+
+/*
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: #d0d2d3;
+}
+
+button {
+  padding: 15px 20px;
+  border: 2px solid #c3d8dd;
+  border-radius: 5px;
+  background: drgb(149, 84, 154);
+  color: rgb(170, 84, 184);
+  cursor: pointer;
+  text-transform: uppercase;
+  outline: none;
+}
+
+div{
+  width:100%;
+  height:100vh;
+  background: rgb(213, 204, 119);
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+*/
+
+/* ********* Forms***********/
+
+
+/*
+*{
+  background-color: rgb(150, 133, 133);
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+  width: 100%;
+  height: 100vh;
+  background: rgb(149, 103, 147);
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+}
+
+h1{
+  background:transparent;
+  text-shadow: 0 2px black;
+  color: rgb(225, 223, 223);
+}
+
+input{
+  width: 70%;
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  margin: 20px 0;
+  text-align: center;
+  text-transform: capitalize;
+  color: white;
+  font-size: larger;
+  background: rgb(223, 219, 219);
+}
+
+button{
+  line-height: 24px;
+  padding: 0 20px;
+  background: rgb(147, 92, 134);
+  color: white;
+  border: 2px solid white;
+  outline: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+*/
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
